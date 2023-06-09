@@ -1,6 +1,10 @@
 # Control flow statements: Use the if-else statements in Python for conditional decision-making
 # for loop: To iterate over a sequence of elements such as list, string.
-# range() function: Using a for loop with range(), we can repeat an action a specific number of times
+# range() function: Using a for loop with range(), we can repeat an action a specific number of times 
+  for i in range(5):
+    print(i)
 # while loop: To repeat a block of code repeatedly, as long as the condition is true.
 # Break and Continue: To alter the loop’s execution in a certain manner.
 # Nested loop: loop inside a loop is known as a nested loop
+
+
