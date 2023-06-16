@@ -15,8 +15,7 @@
 
 
 
-for i in range (0,9):
+for i in range (1,10):
   for j in range (1, i+1):
-    print("1", end="")
-  print (1)
-
+    print(i, end="")
+  print()
