@@ -11,8 +11,8 @@ result = {}
 for key, value in dic1.items():
   result[key]=value 
 for key, value in dic2.items():
-  result[key]=value 
+  result[key]=value
 for key, value in dic3.items():
-  result[key]=value 
+  result[key]=value
 print (result)
   

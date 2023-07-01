@@ -4,9 +4,10 @@
 # Expected Result : {0: 10, 1: 20, 2: 30}
 
 dict = {0: 10, 1: 20}
-print (dict) 
+print(dict) 
 dict[2] = 30
+# dict = {0: 10, 1: 20, 2: 30}
 print (dict)
-dict["condicatory"] = "ahnjooyoung"
-print
+dict["contradictory"] = "ahnjooyoung"
+# dict = {0: 10, 1: 20, 2: 30, "contradictory": "ahnjooyoung"}
 
